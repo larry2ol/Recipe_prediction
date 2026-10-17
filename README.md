@@ -1,7 +1,7 @@
 ## Recipe Site Traffic Prediction
 
 ### Problem Description
-This project aims to predict whether a recipe will have "High" or "Low" traffic on a recipe website based on its nutritional information and category. The dataset contains missing values and an imbalanced target variable, which needs to be addressed for effective model training.
+This project aims to predict whether a recipe will have "High" or "Low" traffic of customers on a recipe website based on its nutritional information and category. The dataset contains missing values and an imbalanced target variable, which needs to be addressed for effective model training.
 
 ### Methodology
 The approach involves:
